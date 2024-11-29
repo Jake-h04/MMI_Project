@@ -1,3 +1,3 @@
-MMI-Project-Alpha - Build
+MMI-Project-Alpha - Alpha Build
 
 Project-Alpha - Unity Files
